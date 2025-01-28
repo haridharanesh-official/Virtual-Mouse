@@ -72,7 +72,7 @@ pip3 install mediapipe pyautogui
 
 ## Code Structure
 
-- **virtual\_mouse.py**: Main script for running the virtual mouse application.
+- **virtual_mouse.py**: Main script for running the virtual mouse application.
 - **README.md**: Documentation for the project.
 
 ---
@@ -161,7 +161,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-[*Hari Dharanesh SP*](https://github.com/<your-username>)
-
-
+[Hari Dharanesh SP](https://github.com/<your-username>)
 
